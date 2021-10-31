@@ -26,6 +26,7 @@ alt="Flamingo" height="30" width="40" /></a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/issamseghir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Issam-seghir" /></a></p><br><br>
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=issam-seghir&show_icons=true&locale=en&layout=compact" alt="issam-seghir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issam-seghir&show_icons=true&locale=en" alt="issam-seghir" /></p>
