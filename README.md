@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Issam</h1>
-<h3 align="center">A passionate Desktop application with Pyqt6 and python developer from Algeria</h3>
+<h3 align="center"> ...... </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
 
-- 🌱 I’m currently learning **PyQt6**
+- 🌱 I’m currently learning **...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Issam-seghir](https://github.com/Issam-seghir)
 
