@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Issam-seghir](https://github.com/Issam-seghir)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **seghirissam5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
