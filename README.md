@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Issam</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">Experienced Frontend Developer 🧪 
+
+with a passion for creating beautiful, intuitive user interfaces ✨
+  
+ Always learning, always improving 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
 
