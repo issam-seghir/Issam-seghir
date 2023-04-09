@@ -7,9 +7,7 @@ with a passion for creating beautiful, intuitive user interfaces ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
 
-- 🌱 I’m currently learning **...**
 
-- 📫 How to reach me **seghirissam5@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
