@@ -27,8 +27,7 @@
 
 <br>
 <br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=issam-seghir&show_icons=true&locale=en&layout=compact" alt="issam-seghir" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issam-seghir&show_icons=true&locale=en" alt="issam-seghir" /></p>
 
