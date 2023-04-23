@@ -32,4 +32,4 @@ with a passion for creating beautiful, intuitive user interfaces ✨
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/issamseghir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Issam-seghir" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/issam.seghir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Issam-seghir" /></a></p><br><br>
