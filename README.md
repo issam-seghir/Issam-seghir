@@ -18,16 +18,6 @@ with a passion for creating beautiful, intuitive user interfaces ✨
   
 
 <br>
-<br>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issam-seghir&show_icons=true&locale=en" alt="issam-seghir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issam-seghir&" alt="issam-seghir" /></p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issam-seghir" alt="issam-seghir" /></a> </p>
 
 </p>
 
