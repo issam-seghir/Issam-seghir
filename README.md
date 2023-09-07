@@ -18,7 +18,7 @@ with a passion for creating beautiful, intuitive user interfaces ✨
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
            </a> 
   <a href="#" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
            </a> 
 <a href="#" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
