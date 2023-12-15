@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Issam</h1>
-<h3 align="center">Experienced Frontend Developer 🧪 
+<h3 align="center">Experienced  Frontend React Developer 🧪 
 
 with a passion for creating beautiful, intuitive user interfaces ✨
   
