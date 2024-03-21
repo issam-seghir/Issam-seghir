@@ -61,8 +61,8 @@ with a passion for creating beautiful, intuitive user interfaces ✨
  <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"  height="40" alt="NodeJS" />
    <img width="4" />
- 
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="40" alt="Express" />
+
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
    <img width="4" />
  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" height="40" alt="NestJS" />
