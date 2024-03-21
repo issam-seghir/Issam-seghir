@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Issam</h1>
+<h1 align="center">Hi 👋, I'm Issam Seghir</h1>
 <h3 align="center">Experienced Full Stack React/Nodejs Developer 🧪 
 
 with a passion for creating beautiful, intuitive user interfaces ✨
   
  Always learning, always improving 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+
 
 ###
 
@@ -40,37 +35,35 @@ with a passion for creating beautiful, intuitive user interfaces ✨
   <br>
   <br>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+   <img width="12" />
+   
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" alt="React" />
+   <img width="12" />
   
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  </a>
+   <img width="12" />
+  
+ <br>
+ <br>
   
 
-  
- <br>
- <br>
-  
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  </a>
-  
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"  height="40" alt="Material UI" />
+   <img width="12" />
+
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" alt="Redux" />
+   <img width="12" />
+
   
  
   
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="36" alt="Git" />
 </a>
 </p>
 <br>
