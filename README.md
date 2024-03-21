@@ -71,10 +71,11 @@ with a passion for creating beautiful, intuitive user interfaces ✨
   <br>
  <br>
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" alt="MongoDB" />
-   <img width="4" />
 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"  height="40" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="4" />
+  
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
    <img width="4" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"  height="40" alt="PostgreSQL" />
