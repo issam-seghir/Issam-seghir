@@ -50,9 +50,7 @@ with a passion for creating beautiful, intuitive user interfaces ✨
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" alt="Redux" />
    <img width="4" />
-  
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="40" alt="Git" />
-   <img width="4" />
+
 </p>
 
 <br>
@@ -83,6 +81,25 @@ with a passion for creating beautiful, intuitive user interfaces ✨
   
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  height="40" alt="MySQL" />
 
+</p>
+<br>
+<h3 align="left">DevOps</h3>
+ <p align="left">
+
+ 
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="4" />
+  
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="4" />
+  
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+   <img width="4" />
+   
+ <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="4" />
+  <br>
+ <br>
 </p>
 
 <h3 align="left">Support:</h3>
