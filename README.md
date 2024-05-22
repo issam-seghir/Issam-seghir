@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Issam Seghir</h1>
-<h3 align="center">Experienced Full Stack React/Nodejs Developer 🧪 
+<h3 align="center">A Software Engineer & Full Stack JS Developer 🧪 
 
-with a passion for creating beautiful, intuitive user interfaces ✨
-  
- Always learning, always improving 🚀</h3>
+Delivering High-Quality User Interfaces &
+building innovative and scalable web applications  🚀
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
 
