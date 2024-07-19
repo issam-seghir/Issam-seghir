@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Issam Seghir</h1>
-<h3 align="center">A Software Engineer & Full Stack JS Developer 🧪 
+<h3 align="center">A Software Engineer 🚀 | Full Stack Developer 🧪 | Web & Mobile Expert 📱  
 
 Delivering High-Quality User Interfaces &
-building innovative and scalable web applications  🚀
+building innovative and scalable web applications  🔥        
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
