@@ -1,16 +1,35 @@
+
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" />
+
 <h1 align="center">Hi 👋, I'm Issam Seghir</h1>
-<h3 align="center">A Software Engineer 🚀 | Full Stack Developer 🧪 | Web & Mobile Expert 📱  
-
-Delivering High-Quality User Interfaces &
-building innovative and scalable web applications  🔥        
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" /> </p>
-
+<h3 align="center">A Software Engineer 🚀 | Full Stack Developer 🧪 | Web & Mobile Expert 📱 
+</h3>
+<p align="center">
+   Delivering High-Quality User Interfaces &
+building innovative and scalable web applications  🔥  
+</p>       
 
 
+---
 
-<h2 align="left">Skills ✨</h3>
+📌 **Currently Working at [Qareeb](https://github.com/Qareeb-io)**<br>
+📫 **For Freelance Opportunities:** You can reach me through the links in my profile
+
+
+### Key Experience ✨:
+
+- 🔹 **Web & Mobile Development 💻📱**:  Specializing in creating  scalable **web** and **mobile** (**iOS + Android**) with React/React Native.  <br>
+- 🔹**Backend Development 🔰**: 
+    Skilled in backend  using **Node.js, NestJS, Go, and Python**.<br>
+- 🔹 **Enterprise-Level Development 🚀**: 
+    spearheaded the development of large-scale applications, including the design and implementation of an ERP system. <br>
+- 🔹 **AI Integration 🤖**: Collaborated with **AI engineers** to build applications leveraging AI, integrating **AI APIs & LLMs** to improve functionality.<br>
+- 🔹 **SaaS Applications 🔥**: Developed numerous **SaaS** applications focused on **AI and e-commerce solutions**, creating scalable software to meet business needs.<br>
+- 🔹 **Cloud Services 🌍**: Proficient in **deploying** and managing applications on **AWS, Azure, Google Cloud, Vercel, and Netlify**, ensuring scalability and reliability.<br>
+- 🔹 **DevOps Skills 🐋**: Professional experience with **Docker**, streamlining development and deployment processes through **containerization and orchestration**.<br>
+
+---
 
 <h3 align="left">Frontend</h4>
 <p align="left">
