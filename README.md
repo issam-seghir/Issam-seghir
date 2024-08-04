@@ -12,8 +12,12 @@ building innovative and scalable web applications  🔥
 
 ---
 
+
 📌 **Currently Working at [Qareeb](https://github.com/Qareeb-io)**<br>
-📫 **For Freelance Opportunities:** You can reach me through the links in my profile
+💻 **View All My Projects** on **[Linkedin](https://www.linkedin.com/in/issam-seghir/details/projects/)**<br>
+📜 **Explore** **My** **Professional** **Experience** **[Here](https://www.linkedin.com/in/issam-seghir/details/experience/)**<br>
+📫 **For** **Freelance** **Opportunities**: Feel free to reach out through the links in my profile.<br>
+
 
 ### Key Experience ✨
 
@@ -26,6 +30,9 @@ building innovative and scalable web applications  🔥
 - 🔹 **SaaS Applications 🔥**: Developed numerous **SaaS** applications focused on **AI and e-commerce solutions**, creating scalable software to meet business needs.<br>
 - 🔹 **Cloud Services 🌍**: Proficient in **deploying** and managing applications on **AWS, Azure, Google Cloud, Vercel, and Netlify**, ensuring scalability and reliability.<br>
 - 🔹 **DevOps Skills 🐋**: Professional experience with **Docker**, streamlining development and deployment processes through **containerization and orchestration**.<br>
+...
+🔗 **[See More](https://www.linkedin.com/in/issam-seghir/)**
+
 
 ---
 
