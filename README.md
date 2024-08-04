@@ -2,6 +2,7 @@
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=issam-seghir&label=Profile%20views&color=0e75b6&style=flat" alt="issam-seghir" />
 
+
 <h1 align="center">Hi 👋, I'm Issam Seghir</h1>
 <h3 align="center">A Software Engineer 🚀 | Full Stack Developer 🧪 | Web & Mobile Expert 📱
 </h3>
