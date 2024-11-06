@@ -14,7 +14,7 @@ building innovative and scalable web applications  🔥
 ---
 
 
-📌 **Currently Working at [Qareeb](https://github.com/Qareeb-io)**<br>
+📌 **Currently Looking for a Job ...** <br>
 💻 **View All My Projects** on **[Linkedin](https://www.linkedin.com/in/issam-seghir/details/projects/)**<br>
 📜 **Explore** **My** **Professional** **Experience** **[Here](https://www.linkedin.com/in/issam-seghir/details/experience/)**<br>
 📫 **For** **Freelance** **Opportunities**: Feel free to reach out through the links in my profile.<br>
@@ -29,8 +29,7 @@ building innovative and scalable web applications  🔥
     spearheaded the development of large-scale applications, including the design and implementation of an ERP system. <br>
 - 🔹 **AI Integration 🤖**: Collaborated with **AI engineers** to build applications leveraging AI, integrating **AI APIs & LLMs** to improve functionality.<br>
 - 🔹 **SaaS Applications 🔥**: Developed numerous **SaaS** applications focused on **AI and e-commerce solutions**, creating scalable software to meet business needs.<br>
-- 🔹 **Cloud Services 🌍**: Proficient in **deploying** and managing applications on **AWS, Azure, Google Cloud, Vercel, and Netlify**, ensuring scalability and reliability.<br>
-- 🔹 **DevOps Skills 🐋**: Professional experience with **Docker**, streamlining development and deployment processes through **containerization and orchestration**.<br>
+- 🔹 **DevOps Skills 🐋**: Good experience with **Docker**, streamlining development and deployment processes through **containerization**.<br>
 ...
 🔗 **[See More](https://www.linkedin.com/in/issam-seghir/)**
 
@@ -110,8 +109,8 @@ building innovative and scalable web applications  🔥
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+         <div  style=="40" />
+        <div  height="40" />
       </p>
    </td>
   </tr>
