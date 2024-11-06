@@ -109,8 +109,7 @@ building innovative and scalable web applications  🔥
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
         <br>
-         <div  style=="40" />
-        <div  height="40" />
+       <br><br>
       </p>
    </td>
   </tr>
@@ -143,6 +142,7 @@ building innovative and scalable web applications  🔥
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
       <img width="12" />
       </p>
+<br><br>
 </td>
 </tr>
 </table>
