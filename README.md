@@ -14,7 +14,7 @@ building innovative and scalable web applications  🔥
 ---
 
 
-📌 **Currently Working in Compose** <br>
+📌 **Currently Working as Freelaner ** <br>
 💻 **View All My Projects** on **[Linkedin](https://www.linkedin.com/in/issam-seghir/details/projects/)**<br>
 📜 **Explore** **My** **Professional** **Experience** **[Here](https://www.linkedin.com/in/issam-seghir/details/experience/)**<br>
 📫 **For** **Freelance** **Opportunities**: Feel free to reach out through the links in my profile.<br>
