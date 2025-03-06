@@ -24,7 +24,7 @@ building innovative and scalable web applications  🔥
 
 - 🔹 **Web & Mobile Development 💻📱**:  Specializing in creating  scalable **web** and **mobile** (**iOS + Android**) with React/React Native.  <br>
 - 🔹**Backend Development 🔰**:
-    Skilled in backend  using **Node.js, NestJS, Go, and Python**.<br>
+    Skilled in backend  using **Node.js, NestJS and Python**.<br>
 - 🔹 **Enterprise-Level Development 🚀**:
     spearheaded the development of large-scale applications, including the design and implementation of an ERP system. <br>
 - 🔹 **AI Integration 🤖**: Collaborated with **AI engineers** to build applications leveraging AI, integrating **AI APIs & LLMs** to improve functionality.<br>
@@ -77,7 +77,7 @@ building innovative and scalable web applications  🔥
         <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+       <br><br>
    </p>
    </td>
    <td>
