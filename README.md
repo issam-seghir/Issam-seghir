@@ -60,8 +60,8 @@ building innovative and scalable web applications  🔥
         <br>
         <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
         <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-        <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+<!--         <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
       </p>
     </td>
     <td>
