@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Issam Seghir</h1>
-<h3 align="center">A Software Engineer 🚀 | Full Stack Developer 🧪 | Web & Mobile Expert 📱
+<h3 align="center">A Software Engineer 🚀 | Web & Mobile Expert 📱
 </h3>
 <p align="center">
    Delivering High-Quality User Interfaces &
