@@ -24,7 +24,7 @@ building innovative and scalable web applications  🔥
 
 - 🔹 **Web & Mobile Development 💻📱**:  Specializing in creating  scalable **web** and **mobile** (**iOS + Android**) with React/React Native.  <br>
 - 🔹**Backend Development 🔰**:
-    Skilled in backend  using **Node.js, NestJS and Python**.<br>
+    Skilled in backend  using **Node.js and Python**.<br>
 - 🔹 **Enterprise-Level Development 🚀**:
     spearheaded the development of large-scale applications, including the design and implementation of an ERP system. <br>
 - 🔹 **AI Integration 🤖**: Collaborated with **AI engineers** to build applications leveraging AI, integrating **AI APIs & LLMs** to improve functionality.<br>
@@ -69,15 +69,15 @@ building innovative and scalable web applications  🔥
       <p align="left">
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
         <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-        <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
         <br>
         <br>
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
         <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
         <br>
         <br>
-       <br><br>
+         <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+       <br>
    </p>
    </td>
    <td>
