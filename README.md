@@ -22,7 +22,7 @@ building innovative and scalable web applications  🔥
 
 ### Key Experience ✨
 
-- 🔹 **Web & Mobile Development 💻📱**:  Specializing in creating  scalable **web** and **mobile** (**iOS + Android**) with React/React Native.  <br>
+- 🔹 **Web & Mobile Development 💻📱**:  Specializing in creating  scalable **Web** (Nextjs/React) and **Mobile** (**iOS + Android**) with Expo/React Native.  <br>
 - 🔹**Backend Development 🔰**:
     Skilled in backend  using **Node.js and Python**.<br>
 - 🔹 **Enterprise-Level Development 🚀**:
@@ -58,10 +58,13 @@ building innovative and scalable web applications  🔥
         <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-        <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-<!--         <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e7e1ac3b9e76dd0036675862f86e7e4a419faa4d/icons/Shadcn-Light.svg" height="40" alt="shadcn logo"  />
+        <img src="https://private-user-images.githubusercontent.com/53892427/320696277-542dfd4e-6428-42f9-8fcd-54beaa1c4929.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NTg0OTIsIm5iZiI6MTc2Mjc1ODE5MiwicGF0aCI6Ii81Mzg5MjQyNy8zMjA2OTYyNzctNTQyZGZkNGUtNjQyOC00MmY5LThmY2QtNTRiZWFhMWM0OTI5LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA3MDMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwNDA4ZmFjZGU5NzFhN2ZhNWFjZDQ0ZjQ4MzBkMjQyMmUzMWU1NTZhYjcwMzdjMTFkMzliNGYxZDc1ZDA3NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Qq6S41BgvB83UsrlkxUkas0lS97F7s9ohvJeB__XoR0" height="40" alt="react query logo"  />
+<!--     
+ <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+<img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+-->
       </p>
     </td>
     <td>
@@ -73,11 +76,11 @@ building innovative and scalable web applications  🔥
         <br>
         <br>
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-        <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
         <br>
         <br>
-         <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
        <br>
+          <br>
    </p>
    </td>
    <td>
@@ -109,7 +112,8 @@ building innovative and scalable web applications  🔥
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
         <br>
-       <br><br>
+          <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+       <br>
       </p>
    </td>
   </tr>
@@ -121,26 +125,33 @@ building innovative and scalable web applications  🔥
  <h4 align="left">Mobile</h4>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-        <img width="12" />
-        <picture >
+         <!-- 
+          <img width="12" />
+                 <picture >
         <source media="(prefers-color-scheme: dark)" height="40" srcset="https://img.shields.io/badge/EXPO-fff.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoColor=000">
          <img alt="Build with EAS" src="https://img.shields.io/badge/Build-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF">
         </picture>
+         -->
+         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/3282f0c96454151309207dc90ece4a19ce6363f2/icons/Expo-Dark.svg" height="40" alt="expo logo"  />
         <br>
         <br>
         <img src="https://img.shields.io/badge/Android-A4C639.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" height="25" alt="android logo"  />
         <img src="https://img.shields.io/badge/iOS-999999.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" height="25" alt="ios logo"  />
+          <br>
         </p>
 </td>
 <td>
  <h4 align="left">Testing</h4>
       <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
-      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+      <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
+     <!--    <img width="12" />-->
+      <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  />
+      <!--    <img width="12" />-->
+      <img src="https://private-user-images.githubusercontent.com/53892427/320370187-15bacea2-95ca-49b6-99f3-e1593db7d928.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NTg0OTIsIm5iZiI6MTc2Mjc1ODE5MiwicGF0aCI6Ii81Mzg5MjQyNy8zMjAzNzAxODctMTViYWNlYTItOTVjYS00OWI2LTk5ZjMtZTE1OTNkYjdkOTI4LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA3MDMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5NWViMzkwNWRiYmNmNDhhYTAwMGMwNzI5Y2QzNjlmY2ZjMTdkOWE1MmU1ZjMyYmFmZWQzY2ZmMTU2NGE1YjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pxhebWDJnSsvqsV054Dsvy3OEzlgV6UsNYRs8Nji4ck" height="40" alt="playwright logo"  />
+       <!--    <img width="12" />-->
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-      <img width="12" />
+       <!--    <img width="12" />-->
       </p>
 <br><br>
 </td>
