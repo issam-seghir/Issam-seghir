@@ -59,7 +59,7 @@ building innovative and scalable web applications  🔥
         <br>
         <br>
        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e7e1ac3b9e76dd0036675862f86e7e4a419faa4d/icons/Shadcn-Light.svg" height="40" alt="shadcn logo"  />
-        <img src="https://private-user-images.githubusercontent.com/53892427/320696277-542dfd4e-6428-42f9-8fcd-54beaa1c4929.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NTg0OTIsIm5iZiI6MTc2Mjc1ODE5MiwicGF0aCI6Ii81Mzg5MjQyNy8zMjA2OTYyNzctNTQyZGZkNGUtNjQyOC00MmY5LThmY2QtNTRiZWFhMWM0OTI5LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA3MDMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwNDA4ZmFjZGU5NzFhN2ZhNWFjZDQ0ZjQ4MzBkMjQyMmUzMWU1NTZhYjcwMzdjMTFkMzliNGYxZDc1ZDA3NzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Qq6S41BgvB83UsrlkxUkas0lS97F7s9ohvJeB__XoR0" height="40" alt="react query logo"  />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/91e1b97933a0449d24da40aeb5f22d109d989602/icons/ReactQuery-Dark.svg" height="40" alt="react query logo"  />
 <!--     
  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
 <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
