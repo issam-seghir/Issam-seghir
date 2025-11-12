@@ -161,13 +161,27 @@ building innovative and scalable web applications  🔥
 
 
 
-<table><tr><td>
- <a href="https://creativebook.io" target="_blank" >
-    <img src="https://i.imgur.com/8way44W.jpeg"  height="200"  alt="website link"  />µ
- </a>
-</td></tr></table>
- 
-
+<table>
+<tr>
+<td style="border: 1px solid #ccc; padding: 5px;">
+  <a href="https://creativebook.io" target="_blank">
+    <img src="https://i.imgur.com/8way44W.jpeg" height="200" alt="Creative Book"/>
+  </a>
+</td>
+   <!-- 
+   <td style="border: 1px solid #ccc; padding: 5px;">
+  <a href="https://ecomenia.com" target="_blank">
+    <img src="https://i.imgur.com/7JgGJkp.jpeg"/>
+  </a>
+</td>
+    -->
+<td style="border: 1px solid #ccc; padding: 5px;">
+  <a href="https://www.linkedin.com/in/issam-seghir/details/projects/" target="_blank">
+    <img src="https://i.imgur.com/7JgGJkp.jpeg" height="200" alt="Compos Food Mobile App"/>
+  </a>
+</td>
+</tr>
+</table>
 
 <!-- repositories -->
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
